@@ -7,3 +7,20 @@
 }
 
 /* Add your own CSS code below */
+
+.countries--second {
+  justify-content: space-between;
+}
+
+.countries--first {
+  justify-content: flex-end;
+}
+
+.countries--third {
+  justify-content: flex-end;
+  flex-direction: column;
+}
+.countries--fourth {
+  flex-direction: column;
+  justify-content: space-around;
+}
