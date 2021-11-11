@@ -3,3 +3,16 @@
 }
 
 /* Add your own CSS code below */
+.countries--first {
+  align-items: flex-end;
+  justify-content: flex-end;
+}
+.countries--second {
+  align-items: flex-end;
+  justify-content: center;
+  flex-direction: row-reverse;
+}
+.countries--third {
+  align-items: flex-start;
+  justify-content: center;
+}
