@@ -4,3 +4,10 @@
   border-radius: 4px;
   background: #fff;
 }
+* {
+  border: 1px solid red;
+}
+
+li {
+  padding: 10px !important;
+}
